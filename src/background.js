@@ -1,4 +1,4 @@
-const BASE_HTTP_URL = 'http://localhost:3000';
+const BASE_HTTP_URL = 'https://api.mtnhao.com';
 let backgroundImgUrl = ``;
 const request = (url) => {
     return new Promise((resolve, reject) => {
