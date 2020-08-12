@@ -17,6 +17,7 @@
     "default_title": "Random Music",
     "default_popup": "popup/popup.html"
   },
+  "homepage_url":"https://github.com/MasterTang-T/Random-Music",
   "background": {
     "scripts": [
       "jquery.js",

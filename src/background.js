@@ -5,6 +5,7 @@ const request = (url) => {
         $.ajax({
             url: url,
             type: "GET",
+            timeout: 3000,
             success: (data) => {
                 resolve(data)
             },
